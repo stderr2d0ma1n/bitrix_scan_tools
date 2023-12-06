@@ -7,8 +7,8 @@ import argparse
 import datetime
 import os
 import pyautogui
-import pygetwindow as gw
-from PIL import ImageGrab
+#import pygetwindow as gw
+#from PIL import ImageGrab
 #import psutil
 
 parser = argparse.ArgumentParser()
